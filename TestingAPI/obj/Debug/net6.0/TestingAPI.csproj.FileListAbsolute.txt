@@ -1,0 +1,17 @@
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.csproj.AssemblyReference.cache
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.AssemblyInfoInputs.cache
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.AssemblyInfo.cs
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.csproj.CoreCompileInputs.cache
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\TestingAPI.exe
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\TestingAPI.deps.json
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\TestingAPI.runtimeconfig.json
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\TestingAPI.dll
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\TestingAPI.pdb
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.dll
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\refint\TestingAPI.dll
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.pdb
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.genruntimeconfig.cache
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\ref\TestingAPI.dll
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cfulton\source\repos\TestingAPI\TestingAPI\obj\Debug\net6.0\TestingAPI.csproj.CopyComplete
